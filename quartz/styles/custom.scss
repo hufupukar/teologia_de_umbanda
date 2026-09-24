@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Cores de destaque do tema "default" pré-calculadas.
+// O tema define --color-accent-1/2 com hsl(calc(...)), formato que o Mermaid
+// não consegue interpretar ao ler as cores do site. Os valores abaixo são os
+// mesmos tons, já resolvidos (accent: h 258, s 88%, l 66%).
+:root:root:root[saved-theme="dark"] {
+  --color-accent-1: hsl(255, 89.76%, 75.9%);
+  --color-accent-2: hsl(253, 92.4%, 85.14%);
+}
+
+:root:root:root[saved-theme="light"] {
+  --color-accent-1: hsl(257, 88.88%, 70.95%);
+  --color-accent-2: hsl(255, 89.76%, 75.9%);
+}
