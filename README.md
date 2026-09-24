@@ -1,17 +1,15 @@
-# Quartz v5
+# Teologia de Umbanda
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Base de estudos sobre Umbanda, organizada para quem está começando e para quem quer estudar com fontes.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**Site:** https://hufupukar.github.io/teologia_de_umbanda
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Sobre
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+A Umbanda não possui autoridade doutrinária única. Este material distingue história documentada, interpretação acadêmica, tradição religiosa e fundamentos de escolas ou terreiros, e não substitui a orientação dos dirigentes da casa.
 
-## Sponsors
+O conteúdo está em [`content/`](content/): notas sobre Orixás, guias espirituais, mediunidade, ritualística, dicionário de termos, fontes e a trilha de formação em 22 módulos.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Tecnologia
+
+Site gerado com [Quartz](https://quartz.jzhao.xyz/) a partir de notas Markdown escritas no Obsidian e publicado pelo GitHub Pages. O código do Quartz é distribuído sob a licença MIT (ver [`LICENSE.txt`](LICENSE.txt)); essa licença se aplica ao código do gerador, não ao conteúdo das notas.
