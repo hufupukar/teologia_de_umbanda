@@ -1,0 +1,45 @@
+---
+tipo: fonte
+status: rascunho
+autor: "Luiz Rufino"
+obra: "Pedagogia das Encruzilhadas"
+ano: 2019
+editora: "Mórula"
+url:
+tipo-fonte: livro
+perspectiva: acadêmica
+escola: 
+biblioteca: true
+aliases: []
+tags: [umbanda/fonte]
+revisado: 2026-09-23
+---
+
+# Luiz Rufino - Pedagogia das Encruzilhadas
+
+## Referência
+Luiz Rufino. *Pedagogia das Encruzilhadas*. Mórula, 2019.
+
+## Tipo e perspectiva
+**Livro**, perspectiva **acadêmica**. Está na biblioteca pessoal.
+
+## Tema principal
+A encruzilhada e Exu como fundamento para pensar educação e conhecimento.
+
+> [!note]
+> Ver [[Encruzilhada]].
+
+## Resumo da fonte
+> A preencher conforme a obra for consultada.
+
+## Notas que citam esta fonte
+
+```dataview
+LIST
+FROM [[]] AND -"98 - Templates"
+SORT file.name ASC
+```
+
+## Pontos de divergência
+
+## Dúvidas geradas pela leitura
